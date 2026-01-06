@@ -1,5 +1,7 @@
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+GameZone Co. is an e-commerce company operating in the consumer electronics and gaming hardware industry. It operates worldwide and sells products via its website and mobile app. 
+
+The company has accumulated substantial data across its sales and marketing activities. This project analyzes that data to generate actionable insights that enhance commercial performance and support data-driven decision-making.
 
 Insights and recommendations are provided on the following key areas:
 
