@@ -1,8 +1,3 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
@@ -23,14 +18,11 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+Gamezone's database structure as seen below consists of two tables: orders and region, with a total row count of 21,864 records.
 
-[Entity Relationship Diagram here]
+<img width="720" height="412" alt="image" src="https://github.com/user-attachments/assets/380549d9-11dc-49c1-b27b-c91ea65ae317" />
 
+Before beginning the analysis, a series of quality control and data-familiarization checks were conducted. The SQL queries used to perform these checks can be found [here].
 
 
 # Executive Summary
