@@ -20,7 +20,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 Gamezone's database structure as seen below consists of two tables: orders and region, with a total row count of 21,864 records.
 
-<img width="720" height="412" alt="image" src="https://github.com/user-attachments/assets/380549d9-11dc-49c1-b27b-c91ea65ae317" />
+<img width="626" height="413" alt="image" src="https://github.com/user-attachments/assets/a2d2f2c6-cb44-454c-a73e-d22fc0d1a86d" />
 
 Before beginning the analysis, a series of quality control and data-familiarization checks were conducted. The SQL queries used to perform these checks can be found [here].
 
