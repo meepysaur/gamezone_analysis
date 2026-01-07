@@ -1,14 +1,14 @@
 # Project Background
-GameZone Co. is an e-commerce company operating in the consumer electronics and gaming hardware industry. It operates worldwide and sells products via its website and mobile app. 
+GameZone Co. is a global e-commerce company operating in the consumer electronics and gaming hardware industry. The company sells products directly to customers through its website and mobile app, with orders fulfilled via international shipping. Customer acquisition is driven by key marketing channels including direct traffic, affiliates, and referrals, and GameZone serves multiple international markets such as the US, UK, Canada, and Australia.
 
-The company has accumulated substantial data across its sales and marketing activities. This project analyzes that data to generate actionable insights that enhance commercial performance and support data-driven decision-making.
+GameZone has accumulated substantial data across its sales and marketing activities. This project analyzes that data to uncover actionable insights that enhance commercial performance and support data-driven decision-making.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Demand & Revenue Trends:** How sales and revenue change over time, identifying patterns such as growth phases, seasonal peaks, and periods of lower activity.
+- **Marketing Channel Performance:** How different marketing channels contribute to traffic, sales, and revenue.
+- **Geographic & Regional Activity:** Where customers are located and how demand varies across different countries and regions.
+- **Customer Purchase & Signup Behavior:** How customers interact with the platform, including how they create accounts and complete purchases.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
