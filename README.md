@@ -10,11 +10,9 @@ Insights and recommendations are provided on the following key areas:
 - **Geographic & Regional Activity:** Where customers are located and how demand varies across different countries and regions.
 - **Customer Purchase & Signup Behavior:** How customers interact with the platform, including how they create accounts and complete purchases.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/gamezone_analysis/blob/main/Gamezone_Data_Clean.sql).
 
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Power BI dashboard used to report and explore sales trends can be found [here] [link].
 
 
 
