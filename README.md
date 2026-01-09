@@ -30,7 +30,9 @@ Before beginning the analysis, a series of quality control and data-familiarizat
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+The analysis indicates that GameZone’s performance is shaped by clear seasonal demand patterns. From 2019 to 2020, the company experienced strong year-over-year growth, with revenue increasing by 162%, order volume by 101%, and average order value (AOV) by 30%, reflecting highly effective demand capture during that period. This growth phase was followed by a sharp decline at the start of 2021, marked by significant contractions in both order volume and revenue.
+
+_Note: Year-over-year growth analysis is based on 2020 data, as 2021 contains incomplete monthly data._
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
