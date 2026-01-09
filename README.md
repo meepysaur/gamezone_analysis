@@ -5,10 +5,10 @@ GameZone has accumulated substantial data across its sales and marketing activit
 
 Insights and recommendations are provided on the following key areas:
 
-- **Demand & Revenue Trends:** How sales and revenue change over time, identifying patterns such as growth phases, seasonal peaks, and periods of lower activity.
-- **Marketing Channel Performance:** How different marketing channels contribute to traffic, sales, and revenue.
-- **Geographic & Regional Activity:** Where customers are located and how demand varies across different countries and regions.
-- **Customer Purchase & Signup Behavior:** How customers interact with the platform, including how they create accounts and complete purchases.
+1. **Demand & Revenue Trends:** How sales and revenue change over time, identifying patterns such as growth phases, seasonal peaks, and periods of lower activity.
+2. **Marketing Channel Performance:** How different marketing channels contribute to traffic, sales, and revenue.
+3. **Geographic & Regional Activity:** Where customers are located and how demand varies across different countries and regions.
+4. **Customer Purchase & Signup Behavior:** How customers interact with the platform, including how they create accounts and complete purchases.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/gamezone_analysis/blob/main/Gamezone_Data_Clean.sql).
 
