@@ -23,8 +23,6 @@ Gamezone's database structure as seen below consists of two tables: orders and r
 <img width="626" height="413" alt="image" src="https://github.com/user-attachments/assets/a2d2f2c6-cb44-454c-a73e-d22fc0d1a86d" />
 
 
-Before beginning the analysis, a series of quality control and data-familiarization checks were conducted. The SQL queries used to perform these checks can be found [here].
-
 
 # Executive Summary
 
@@ -34,35 +32,37 @@ The analysis indicates that GameZone’s performance is shaped by clear seasonal
 
 _Note: Year-over-year growth analysis is based on 2020 data, as 2021 contains incomplete monthly data._
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/808db5ad-52b0-4b65-8ae9-51b25c35fb31" />
 
 
 
 # Insights Deep Dive
-### Category 1:
+### 1. Demand & Revenue Trends
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* From 2019 to 2020, total revenue more than doubled, increasing by 162% YoY, while order volume grew by 101% YoY, driven primarily by a small number of high-performing products, most notably Nintendo Switch and 4k gaming monitors.
 
-[Visualization specific to category 1]
+* The demand surge in 2020 coincided with the COVID-19 period, during which consumers spent more time at home. This behavioral shift is clearly reflected in the data through a substantial increase in units sold, particularly for home-entertainment and gaming products.
 
-
-### Category 2:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* High-value products did not necessarily correspond to high unit sales. For example, the Sony PlayStation 5 bundle generated substantial annual revenue, despite comparatively lower units sold, reflecting its significantly higher price point relative to other products.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Product contribution was uneven across the portfolio. While a handful of core products accounted for the majority of sales and revenue growth, lower-performing categories such as gaming headsets contributed approximately ~2% of total sales, indicating a limited impact on overall commercial performance.
 
-[Visualization specific to category 2]
+<img width="1281" height="343" alt="image" src="https://github.com/user-attachments/assets/9f74851a-7e98-4206-b29b-96f1f9f5adbe" />
+
+
+
+### Marketing Channel Performance
+
+* Between 2019 to 2020, revenue growth was heavily channel-driven, with direct traffic accounting for a disproportionate share of total revenue, rather than growth being evenly distributed across all marketing channels. 
+  
+* Analysis of average order value (AOV) by marketing channel shows that the highest-revenue channels (direct and affiliate) also attracted higher-value transactions, with AOVs consistently exceeding the company-wide average of approximately $281 per order.
+
+* Lower-performing channels contributed only marginal revenue and did not exhibit meaningful AOV improvement over time, thereby limiting their overall impact on commercial performance.
+
+* The alignment between revenue and AOV trends indicates that channel quality, rather than reach alone, played a critical role in driving GameZone’s growth during peak demand periods.
+
+<img width="1280" height="303" alt="image" src="https://github.com/user-attachments/assets/691a7b65-7dc7-4ca0-9b5b-409ab0efbb7d" />
+
 
 
 ### Category 3:
